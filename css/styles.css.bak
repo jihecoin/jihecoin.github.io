@@ -754,7 +754,7 @@ input[type='checkbox'] {
 .header {
 	position: relative;
 	padding-top: 8rem;
-	padding-bottom: 20%;
+	padding-bottom: 30%;
 	background-color:#8a98ef;
 	/* background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/header-background.jpg') center center no-repeat; */
 	background-size: cover;
