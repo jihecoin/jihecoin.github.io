@@ -28,7 +28,7 @@ Table Of Contents:
 /*****************************************
 Colors:
 - Backgrounds - light gray #fbf9f5
-- Backgrounds, buttons - yellow #60468a
+- Backgrounds, buttons - yellow #7e9ee5
 - Headings text, navbar links - black #333
 - Body text - dark gray #555
 ******************************************/
@@ -125,9 +125,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #60468a;
+	border: 0.125rem solid #7e9ee5;
 	border-radius: 2rem;
-	background-color: #60468a;
+	background-color: #7e9ee5;
 	color: #333;
 	font: 600 0.875rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -144,9 +144,9 @@ a:hover {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #60468a;
+	border: 0.125rem solid #7e9ee5;
 	border-radius: 2rem;
-	background-color: #60468a;
+	background-color: #7e9ee5;
 	color: #333;
 	font: 600 0.875rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -173,8 +173,8 @@ a:hover {
 }
 
 .btn-outline-reg:hover {
-	border: 0.125rem solid #60468a;
-	background-color: #60468a;
+	border: 0.125rem solid #7e9ee5;
+	background-color: #7e9ee5;
 	color: #333;
 	text-decoration: none;
 }
@@ -192,8 +192,8 @@ a:hover {
 }
 
 .btn-outline-lg:hover {
-	border: 0.125rem solid #60468a;
-	background-color: #60468a;
+	border: 0.125rem solid #7e9ee5;
+	background-color: #7e9ee5;
 	color: #333;
 	text-decoration: none;
 }
@@ -211,8 +211,8 @@ a:hover {
 }
 
 .btn-outline-sm:hover {
-	border: 0.125rem solid #60468a;
-	background-color: #60468a;
+	border: 0.125rem solid #7e9ee5;
+	background-color: #7e9ee5;
 	color: #333;
 	text-decoration: none;
 }
@@ -361,9 +361,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 0.125rem solid #60468a;
+	border: 0.125rem solid #7e9ee5;
 	border-radius: 1.5rem;
-	background-color: #60468a;
+	background-color: #7e9ee5;
 	color: #333;
 	font: 600 0.875rem/0 "Montserrat", sans-serif;
 	cursor: pointer;
@@ -593,7 +593,7 @@ input[type='checkbox'] {
 	width: 1rem;
 	height: 1rem;
 	border-radius: 100%;
-	background-color: #60468a;
+	background-color: #7e9ee5;
 	-webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
 	animation: sk-bouncedelay 1.4s infinite ease-in-out both;
 }
@@ -643,7 +643,7 @@ input[type='checkbox'] {
 
 .navbar-custom .navbar-brand.logo-text {
 	font: italic 600 2rem/1.5rem "Montserrat", sans-serif;
-	color: #60468a;
+	color: #7e9ee5;
 	text-decoration: none;
 }
 
@@ -661,7 +661,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #60468a;
+	color: #7e9ee5;
 }
 
 /* Dropdown Menu */
@@ -706,7 +706,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: #60468a;
+	color: #7e9ee5;
 }
 
 .navbar-custom .dropdown-divider {
@@ -755,7 +755,7 @@ input[type='checkbox'] {
 	position: relative;
 	padding-top: 8rem;
 	padding-bottom: 40%;
-	background-color:#60468a;
+	background-color:#7e9ee5;
 	/* background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/header-background.jpg') center center no-repeat; */
 	background-size: cover;
 	text-align: center;
@@ -806,8 +806,8 @@ input[type='checkbox'] {
 }
 
 .header .btn-solid-lg:hover {
-	border: 0.125rem solid #60468a;
-	color: #60468a;
+	border: 0.125rem solid #7e9ee5;
+	color: #7e9ee5;
 }
 
 .header .btn-outline-lg {
@@ -869,7 +869,7 @@ input[type='checkbox'] {
 .form-1 {
 	padding-top: 6rem;
 	padding-bottom: 6.25rem;
-	background-color: #60468a;
+	background-color: #7e9ee5;
 }
 
 .form-1 h2 {
@@ -980,7 +980,7 @@ input[type='checkbox'] {
 	width: 2.125rem;
 	height: 2.125rem;
 	border-radius: 50%;
-	background-color: #60468a;
+	background-color: #7e9ee5;
 	color: #333;
 	font-style: normal;
 	font-weight: 700;
@@ -1169,7 +1169,7 @@ input[type='checkbox'] {
 	width: 4.75rem;
 	height: 4.75rem;
 	border-radius: 50%;
-	background: #60468a;
+	background: #7e9ee5;
 	animation: pulse-border 1500ms ease-out infinite;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1186,7 +1186,7 @@ input[type='checkbox'] {
 	width: 4.375rem;
 	height: 4.375rem;
 	border-radius: 50%;
-	background: #60468a;
+	background: #7e9ee5;
 	transition: all 200ms;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1260,7 +1260,7 @@ input[type='checkbox'] {
 
 .cards .fas,
 .cards .far {
-	color: #60468a;
+	color: #7e9ee5;
 	font-size: 3rem;
 	line-height: 6rem;
 }
@@ -1414,12 +1414,12 @@ input[type='checkbox'] {
 }
 
 .form-2 .fa-stack .fa-stack-2x {
-	color: #60468a;
+	color: #7e9ee5;
 	transition: all 0.2s ease;
 }
 
 .form-2 .fa-stack:hover .fa-stack-1x {
-	color: #60468a;
+	color: #7e9ee5;
 }
 
 .form-2 .fa-stack:hover .fa-stack-2x {
@@ -1433,7 +1433,7 @@ input[type='checkbox'] {
 .form-3 {
 	padding-top: 6.125rem;
 	padding-bottom: 5.125rem;
-	background-color: #60468a;
+	background-color: #7e9ee5;
 }
 
 .form-3 .text-container {
@@ -1548,7 +1548,7 @@ input[type='checkbox'] {
 }
 
 .footer .fab:hover {
-	color: #60468a;
+	color: #7e9ee5;
 }
 
 
@@ -1585,7 +1585,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #60468a url("../images/up-arrow.png") no-repeat center 47%;
+	background: #7e9ee5 url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
@@ -1658,7 +1658,7 @@ a:hover.back-to-top {
 }
 
 .ex-basic-2 .list-unstyled .fas {
-	color: #60468a;
+	color: #7e9ee5;
 	font-size: 0.5rem;
 	line-height: 1.5rem;
 }
@@ -1804,7 +1804,7 @@ a:hover.back-to-top {
 
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #60468a;
+		color: #7e9ee5;
 	}
 
 	.navbar-custom .dropdown-menu {
@@ -1841,7 +1841,7 @@ a:hover.back-to-top {
 	}
 	
 	.navbar-custom .fa-stack-2x {
-		color: #60468a;
+		color: #7e9ee5;
 		transition: all 0.2s ease;
 	}
 	
