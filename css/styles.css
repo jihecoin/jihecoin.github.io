@@ -754,7 +754,7 @@ input[type='checkbox'] {
 .header {
 	position: relative;
 	padding-top: 8rem;
-	padding-bottom: 40%;
+	padding-bottom: 30%;
 	background-color:#8a98ef;
 	/* background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/header-background.jpg') center center no-repeat; */
 	background-size: cover;
@@ -1870,7 +1870,7 @@ a:hover.back-to-top {
 	/* Header */
 	.header h1,
 	.header .p-large {
-		width: 47rem;
+		/* width: 47rem; */
 		margin-right: auto;
 		margin-left: auto;
 	}
