@@ -821,14 +821,24 @@ input[type='checkbox'] {
 }
 
 .header .outer-container {
-	position: absolute;
-	right: 0;
-	bottom: -2rem;
-	left: 0;
-	margin-right: auto;
-	margin-left: auto;
-	width: 100%;
+	position: relative;
+	/* right: 0; */
+	/* bottom: -2rem; */
+	/* left: 0; */
+	/* margin-right: auto; */
+	/* margin-left: auto; */
+	/* width: 100%; */
 }
+
+/* .header .outer-container { */
+	/* position: absolute; */
+	/* right: 0; */
+	/* bottom: -2rem; */
+	/* left: 0; */
+	/* margin-right: auto; */
+	/* margin-left: auto; */
+	/* width: 100%; */
+/* } */
 
 .header .slider-container {
 	position: relative;
@@ -1708,7 +1718,7 @@ a:hover.back-to-top {
 	}
 
 	.header .outer-container {
-		bottom: -4rem;
+		/* bottom: -4rem; */
 	}
 
 	.header .swiper-button-prev {
