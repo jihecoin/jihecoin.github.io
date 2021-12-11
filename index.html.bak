@@ -122,23 +122,23 @@
                     <div class="text-container">
                         <div class="countdown">
                              <div class="outer-container">
-            <div class="slider-container">
-                <div class="swiper-container image-slider-1">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
-                        </div>
-                        
+									<div class="slider-container">
+										<div class="swiper-container image-slider-1">
+											<div class="swiper-wrapper">
+												<div class="swiper-slide">
+													<img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+												</div>
+												
 
-                    </div> <!-- end of swiper-wrapper -->
-                    
-                    <!-- Add Arrows -->
-                    <div class="swiper-button-next"></div>
-                    <div class="swiper-button-prev"></div>
-                    <!-- end of add arrows -->
-                    
-                </div> <!-- end of swiper-container -->
-            </div> <!-- end of slider-container -->
+											</div> <!-- end of swiper-wrapper -->
+											
+											<!-- Add Arrows -->
+											<div class="swiper-button-next"></div>
+											<div class="swiper-button-prev"></div>
+											<!-- end of add arrows -->
+											
+										</div> <!-- end of swiper-container -->
+									</div> <!-- end of slider-container -->
         </div> <!-- end of outer-container -->
                         </div>
                         <h1>Jagriti Higher Education College</h1>
