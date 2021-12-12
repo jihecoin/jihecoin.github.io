@@ -116,7 +116,7 @@
                         <div class="countdown">
                             <!-- <span id="clock"></span> -->
                         </div>
-						<h2><a href="old/index.html">To Visit Old Web Site</a></h2>
+						<h2 class="blink_me"><a href="old/index.html">To Visit Old Web Site</a></h2>
                         <h1>Jagriti Institute Higher of Education</h1>
                         <h2>B.ed & JBT College, Mohna</h2>
                         <!-- <p class="p-large">Do you feel like you're doing a lot of guess work when it comes to SEO for your website? Take the SEO training course to change that</p> -->
@@ -441,7 +441,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-mobile-alt"></i>
-                                <div class="media-body">+91 8901520079, +91 9467780691
+                                <div class="media-body"><a href="tel:+918901520079">+91 8901520079</a>,<a href="tel:+918901520079"> +91 9467780691</a>
 								
 								</div>
                             </li>
