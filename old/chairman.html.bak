@@ -45,93 +45,64 @@
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tr>
     <td><!-- InstanceBeginEditable name="EditRegion3" -->&nbsp;
-      <table width="780" border="0" cellspacing="0" cellpadding="0">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tr>
-          <td style="padding-left:10px;"><img src="image/courses.gif" alt="Courses"  title="Courses"width="171" height="19" /></td>
+          <td style="padding-left:10px;">&nbsp;</td>
+        </tr>
+        <tr>
+          <td style="padding-left:10px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="26%" valign="top"><img src="image/chairman.gif" width="200" height="250" /></td>
+              <td width="3%" valign="top">&nbsp;</td>
+              <td width="71%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td>Jagriti institute of higher education has been working with the idea better education for better society. This aim can be achieved through a quality education and now our endeavor is to create such educator who can impart quality education.</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>At Jagriti Institute of Higher education is to set learning challenges in carrying and orderly environment where pupil-teacher`s are provided opportunities for social emotional, cultural, mental and physical development. Jagriti Institute of higher education offers a broad teacher education where academic excellence is complimented by cultural, sporting and social development. We strive to develop each pupil teacher`s potentials, recognize his or her dignity and encourage positive self-esteem in order to promote responsibility and creativity dedicated nation and society.</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>I wish you all the Success.</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><strong>Ranjeet Singh</strong></td>
+                </tr>
+                <tr>
+                  <td>Chairman</td>
+                </tr>
+                <tr>
+                  <td>Jagriti  Institute of Higher Education</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+              </table></td>
+            </tr>
+          </table></td>
         </tr>
         <tr>
           <td style="padding-left:10px;">&nbsp;</td>
         </tr>
         <tr>
-          <td ><table width="100%" border="0" cellspacing="0" style="margin-left:10px; margin-right:10px;">
-            <tr>
-              <td>The following programmes are offered at J.I.H.E.:</td>
-            </tr>
-            <tr>
-              <td class="green_bold">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="green_bold">B.Ed.</td>
-            </tr>
-            
-            <tr>
-              <td><table width="100%" border="0" cellspacing="0">
-                <tr>
-                  <td width="167"><strong>Eligibility</strong></td>
-                  <td width="597">: Graduation/Post-graduation with 50% marks(SC/ST/PH 45% marks Haryana State Candidates only)</td>
-                </tr>
-                <tr>
-                  <td><strong>Duration </strong></td>
-                  <td>: 1 year</td>
-                </tr>
-                <tr>
-                  <td><strong>Intake</strong></td>
-                  <td>: 200</td>
-                </tr>
-                <tr>
-                  <td><strong>Admission Procedure</strong></td>
-                  <td>: On the basis of Maharishi Dayanand University Norms</td>
-                </tr>
-                <tr>
-                  <td>&nbsp;</td>
-                  <td align="left"><strong><a href="image/B.Ed..jpg" class="green_bold">Syllabus</a></strong></td>
-                </tr>
-                </table></td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-            </tr>
-            <tr>
-              <td><span class="green_bold">D.Ed.</span></td>
-            </tr>
-            <tr>
-              <td><table width="100%" border="0" cellspacing="0">
-                <tr>
-                  <td width="167"><strong>Eligibility</strong></td>
-                  <td width="597">: 10+2 with 50% marks (SC/ST 45% marks only for Haryana Domicile)</td>
-                </tr>
-                <tr>
-                  <td><strong>Duration </strong></td>
-                  <td>: 2 year</td>
-                </tr>
-                <tr>
-                  <td><strong>Intake</strong></td>
-                  <td>: 50</td>
-                </tr>
-                <tr>
-                  <td><strong>Admission Procedure</strong></td>
-                  <td>: On the basis of SCERT and HBSE Norms</td>
-                </tr>
-                <tr>
-                  <td>&nbsp;</td>
-                  <td><strong><a href="image/D.Ed..jpg" class="green_bold">Syllabus</a></strong></td>
-                </tr>
-              </table></td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-            </tr>
-            <tr>
-              <td>The foresaid programmes will be conducted in accordance with the statutory requirements prescribed by NRC-NCTE/State Govt./M.D.University, Rihtak.</td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-            </tr>
-            
-          </table></td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
         </tr>
       </table>
     <!-- InstanceEndEditable --></td>
@@ -169,7 +140,7 @@
         <td height="20" align="center">Copyright &copy; 2007-2008 Jagriti Insritute of Higher Education</td>
       </tr>
       <tr>
-        <td align="center" class="design">Design &amp; Maintained By <a target="_blank" href="http://www.mohansuryavanshi.wordpress.com" class="">Mohan Singh</a></td>
+        <td align="center" class="design">Design &amp; Maintained By <a href="http://www.avid-designers.com" class="Kzinetext">AVID DESIGNERS </a></td>
       </tr>
     </table></td>
   </tr>

@@ -45,9 +45,9 @@
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tr>
     <td><!-- InstanceBeginEditable name="EditRegion3" -->&nbsp;
-      <table width="750" border="0" cellspacing="0" cellpadding="0">
+      <table width="780" border="0" cellspacing="0" cellpadding="0">
         <tr>
-          <td style="padding-left:10px;"><img src="image/faculty.gif" alt="Faculty" title="Faculty" width="151" height="19" /></td>
+          <td style="padding-left:10px;"><img src="image/courses.gif" alt="Courses"  title="Courses"width="171" height="19" /></td>
         </tr>
         <tr>
           <td style="padding-left:10px;">&nbsp;</td>
@@ -55,89 +55,66 @@
         <tr>
           <td ><table width="100%" border="0" cellspacing="0" style="margin-left:10px; margin-right:10px;">
             <tr>
-              <td align="left" class="green_bold">LIST OF TEACHING STAFF (B.Ed.)</td>
+              <td>The following programmes are offered at J.I.H.E.:</td>
             </tr>
             <tr>
-              <td><table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#999999">
+              <td class="green_bold">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="green_bold">B.Ed.</td>
+            </tr>
+            
+            <tr>
+              <td><table width="100%" border="0" cellspacing="0">
                 <tr>
-                  <td width="5%" bgcolor="#FFFFFF" class="green_bold">S.No.</td>
-                  <td width="61%" bgcolor="#FFFFFF" class="green_bold">Name</td>
-                  <td width="34%" bgcolor="#FFFFFF" class="green_bold">Designation</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">1</td>
-                  <td bgcolor="#FFFFFF">Dr. Chaman Kumar</td>
-                  <td bgcolor="#FFFFFF">Principal</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">2</td>
-                  <td bgcolor="#FFFFFF">Mr. Vijay Prakash Yadav</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">3</td>
-                  <td bgcolor="#FFFFFF">Mr. Rajendra Kumar Gupta</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">4</td>
-                  <td bgcolor="#FFFFFF">Mr. Inami</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">5</td>
-                  <td bgcolor="#FFFFFF">Mr. Krishan Kumar</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">6</td>
-                  <td bgcolor="#FFFFFF">Mrs. Sangeeta Rani</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">7</td>
-                  <td bgcolor="#FFFFFF">Mrs. Mamta Sharma</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">8</td>
-                  <td bgcolor="#FFFFFF">Dr. Pushpa Pandey</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">9</td>
-                  <td bgcolor="#FFFFFF">Mr. Lakhpat Singh</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">10</td>
-                  <td bgcolor="#FFFFFF">Mr. Sudhankar Tiwari</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">11</td>
-                  <td bgcolor="#FFFFFF">Mr. Manoj Kumar</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">12</td>
-                  <td bgcolor="#FFFFFF">Mr. Krishan Kumar</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">13</td>
-                  <td bgcolor="#FFFFFF">Mrs. Rita</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
-                  </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">14</td>
-                  <td bgcolor="#FFFFFF">Mrs. Rubi Pawar</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
+                  <td width="167"><strong>Eligibility</strong></td>
+                  <td width="597">: Graduation/Post-graduation with 50% marks(SC/ST/PH 45% marks Haryana State Candidates only)</td>
                 </tr>
                 <tr>
-                  <td bgcolor="#FFFFFF">15</td>
-                  <td bgcolor="#FFFFFF">Mr. Yogender Singh</td>
-                  <td bgcolor="#FFFFFF">Lecturer</td>
+                  <td><strong>Duration </strong></td>
+                  <td>: 1 year</td>
+                </tr>
+                <tr>
+                  <td><strong>Intake</strong></td>
+                  <td>: 200</td>
+                </tr>
+                <tr>
+                  <td><strong>Admission Procedure</strong></td>
+                  <td>: On the basis of Maharishi Dayanand University Norms</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td align="left"><strong><a href="image/B.Ed..jpg" class="green_bold">Syllabus</a></strong></td>
+                </tr>
+                </table></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><span class="green_bold">D.Ed.</span></td>
+            </tr>
+            <tr>
+              <td><table width="100%" border="0" cellspacing="0">
+                <tr>
+                  <td width="167"><strong>Eligibility</strong></td>
+                  <td width="597">: 10+2 with 50% marks (SC/ST 45% marks only for Haryana Domicile)</td>
+                </tr>
+                <tr>
+                  <td><strong>Duration </strong></td>
+                  <td>: 2 year</td>
+                </tr>
+                <tr>
+                  <td><strong>Intake</strong></td>
+                  <td>: 50</td>
+                </tr>
+                <tr>
+                  <td><strong>Admission Procedure</strong></td>
+                  <td>: On the basis of SCERT and HBSE Norms</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td><strong><a href="image/D.Ed..jpg" class="green_bold">Syllabus</a></strong></td>
                 </tr>
               </table></td>
             </tr>
@@ -145,61 +122,7 @@
               <td>&nbsp;</td>
             </tr>
             <tr>
-              <td align="left" class="green_bold">LIST OF NON-TEACHING STAFF </td>
-            </tr>
-            <tr>
-              <td><table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#999999">
-                <tr>
-                  <td width="5%" bgcolor="#FFFFFF" class="green_bold">S.No.</td>
-                  <td width="61%" bgcolor="#FFFFFF" class="green_bold">Name</td>
-                  <td width="34%" bgcolor="#FFFFFF" class="green_bold">Designation</td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">1</td>
-                  <td bgcolor="#FFFFFF">Mr. Tara Chand</td>
-                  <td bgcolor="#FFFFFF">Librarian</td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">2</td>
-                  <td bgcolor="#FFFFFF">Mr. Pradeep Saini</td>
-                  <td bgcolor="#FFFFFF">Clerk-cum-Typist</td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">3</td>
-                  <td bgcolor="#FFFFFF">Mr. Naresh Kumar</td>
-                  <td bgcolor="#FFFFFF">Clerk-cum-Typist</td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">4</td>
-                  <td bgcolor="#FFFFFF">Mr. Rajender Singh</td>
-                  <td bgcolor="#FFFFFF">Lab Attendant </td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">5</td>
-                  <td bgcolor="#FFFFFF">Mr. Ombir</td>
-                  <td bgcolor="#FFFFFF">Library Attendant </td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">6</td>
-                  <td bgcolor="#FFFFFF">Mr. Rajbir </td>
-                  <td bgcolor="#FFFFFF">Peon </td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">7</td>
-                  <td bgcolor="#FFFFFF">Mr. Devender</td>
-                  <td bgcolor="#FFFFFF">Peon </td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">8</td>
-                  <td bgcolor="#FFFFFF">Mr. Sukhbir Singh</td>
-                  <td bgcolor="#FFFFFF">Sweeper</td>
-                </tr>
-                <tr>
-                  <td bgcolor="#FFFFFF">9</td>
-                  <td bgcolor="#FFFFFF">Mrs. Poonam</td>
-                  <td bgcolor="#FFFFFF">Sweeper</td>
-                </tr>
-              </table></td>
+              <td>The foresaid programmes will be conducted in accordance with the statutory requirements prescribed by NRC-NCTE/State Govt./M.D.University, Rihtak.</td>
             </tr>
             <tr>
               <td>&nbsp;</td>
@@ -208,7 +131,6 @@
               <td>&nbsp;</td>
             </tr>
             
-
           </table></td>
         </tr>
       </table>
@@ -247,7 +169,7 @@
         <td height="20" align="center">Copyright &copy; 2007-2008 Jagriti Insritute of Higher Education</td>
       </tr>
       <tr>
-        <td align="center" class="design">Design &amp; Maintained By <a target="_blank" href="http://www.mohansuryavanshi.wordpress.com" class="">Mohan Singh</a></td>
+        <td align="center" class="design">Design &amp; Maintained By <a href="http://www.avid-designers.com" class="Kzinetext">AVID DESIGNERS </a></td>
       </tr>
     </table></td>
   </tr>

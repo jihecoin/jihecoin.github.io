@@ -45,9 +45,9 @@
 <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tr>
     <td><!-- InstanceBeginEditable name="EditRegion3" -->&nbsp;
-      <table width="780" border="0" cellspacing="0" cellpadding="0">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tr>
-          <td style="padding-left:10px;"><img src="image/courses.gif" alt="Courses"  title="Courses"width="171" height="19" /></td>
+          <td style="padding-left:10px;"><img src="image/college_details.gif" alt="College Details" title="College Details"width="265" height="19" /></td>
         </tr>
         <tr>
           <td style="padding-left:10px;">&nbsp;</td>
@@ -55,77 +55,64 @@
         <tr>
           <td ><table width="100%" border="0" cellspacing="0" style="margin-left:10px; margin-right:10px;">
             <tr>
-              <td>The following programmes are offered at J.I.H.E.:</td>
+              <td class="green_bold">Land and Building</td>
             </tr>
             <tr>
-              <td class="green_bold">&nbsp;</td>
-            </tr>
-            <tr>
-              <td class="green_bold">B.Ed.</td>
-            </tr>
-            
-            <tr>
-              <td><table width="100%" border="0" cellspacing="0">
-                <tr>
-                  <td width="167"><strong>Eligibility</strong></td>
-                  <td width="597">: Graduation/Post-graduation with 50% marks(SC/ST/PH 45% marks Haryana State Candidates only)</td>
-                </tr>
-                <tr>
-                  <td><strong>Duration </strong></td>
-                  <td>: 1 year</td>
-                </tr>
-                <tr>
-                  <td><strong>Intake</strong></td>
-                  <td>: 200</td>
-                </tr>
-                <tr>
-                  <td><strong>Admission Procedure</strong></td>
-                  <td>: On the basis of Maharishi Dayanand University Norms</td>
-                </tr>
-                <tr>
-                  <td>&nbsp;</td>
-                  <td align="left"><strong><a href="image/B.Ed..jpg" class="green_bold">Syllabus</a></strong></td>
-                </tr>
-                </table></td>
+              <td>The total area of college is 17572sq.mtr. College building has been completed. All classrooms, halls, library, laboratories are spacious and well equipped. </td>
             </tr>
             <tr>
               <td>&nbsp;</td>
             </tr>
             <tr>
-              <td><span class="green_bold">D.Ed.</span></td>
+              <td class="green_bold">Classrooms</td>
             </tr>
             <tr>
-              <td><table width="100%" border="0" cellspacing="0">
-                <tr>
-                  <td width="167"><strong>Eligibility</strong></td>
-                  <td width="597">: 10+2 with 50% marks (SC/ST 45% marks only for Haryana Domicile)</td>
-                </tr>
-                <tr>
-                  <td><strong>Duration </strong></td>
-                  <td>: 2 year</td>
-                </tr>
-                <tr>
-                  <td><strong>Intake</strong></td>
-                  <td>: 50</td>
-                </tr>
-                <tr>
-                  <td><strong>Admission Procedure</strong></td>
-                  <td>: On the basis of SCERT and HBSE Norms</td>
-                </tr>
-                <tr>
-                  <td>&nbsp;</td>
-                  <td><strong><a href="image/D.Ed..jpg" class="green_bold">Syllabus</a></strong></td>
-                </tr>
-              </table></td>
+              <td>The college has 17 classrooms. Rooms are well equipped and properly ventilated. </td>
             </tr>
             <tr>
               <td>&nbsp;</td>
             </tr>
             <tr>
-              <td>The foresaid programmes will be conducted in accordance with the statutory requirements prescribed by NRC-NCTE/State Govt./M.D.University, Rihtak.</td>
+              <td class="green_bold">Principal room</td>
+            </tr>
+            <tr>
+              <td>The construction of principal room has been completed.</td>
             </tr>
             <tr>
               <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="green_bold">Staff room</td>
+            </tr>
+            <tr>
+              <td>The room for staff member of the college is well furnished.</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="green_bold">Canteen</td>
+            </tr>
+            <tr>
+              <td>Fully hygienic canteen with all time availability of nutritious food stuffs for students and teachers. Canteen is ventilated and well furnished with sufficient space and furniture for students.</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="green_bold">Medical Facilities</td>
+            </tr>
+            <tr>
+              <td>In campus there is Provision of medical facility for students and teachers.</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="green_bold">Sports and Playground</td>
+            </tr>
+            <tr>
+              <td>The institute has wide range of sporting in the campus. The college has playground for outdoor games like Badminton, Volley ball, Athletics, cricket etc. For indoor games like Table Tennis, chess, Carom board etc. college has spacious sports room with sufficient number of sports items.</td>
             </tr>
             <tr>
               <td>&nbsp;</td>
@@ -169,7 +156,7 @@
         <td height="20" align="center">Copyright &copy; 2007-2008 Jagriti Insritute of Higher Education</td>
       </tr>
       <tr>
-        <td align="center" class="design">Design &amp; Maintained By <a target="_blank" href="http://www.mohansuryavanshi.wordpress.com" class="">Mohan Singh</a></td>
+        <td align="center" class="design">Design &amp; Maintained By <a href="http://www.avid-designers.com" class="Kzinetext">AVID DESIGNERS </a></td>
       </tr>
     </table></td>
   </tr>
