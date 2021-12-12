@@ -18,7 +18,7 @@
 	<meta property="og:type" content="article" />
 
     <!-- Website Title -->
-    <title>Jagriti Higher Education College</title>
+    <title>Jagriti Institute of Higher Education</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,600,700,700i&display=swap" rel="stylesheet">
@@ -116,6 +116,7 @@
                         <div class="countdown">
                             <!-- <span id="clock"></span> -->
                         </div>
+						<h2><a href="old/index">Old Web Site</a></h2>
                         <h1>Jagriti Institute Higher of Education College</h1>
                         <!-- <p class="p-large">Do you feel like you're doing a lot of guess work when it comes to SEO for your website? Take the SEO training course to change that</p> -->
                         <!-- <a class="btn-solid-lg page-scroll" href="#register">REGISTER</a> -->
@@ -173,8 +174,8 @@
                                 <div class="media-body"><strong>You will receive</strong> a confirmation email in less than 24h</div>
                             </li>
                         </ul>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+                    </div> 
+                </div> 
                 <div class="col-lg-6">
 
                     <!-- Registration Form -->
