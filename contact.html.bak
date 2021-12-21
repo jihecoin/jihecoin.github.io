@@ -74,9 +74,22 @@
                     <a class="nav-link page-scroll" href="aboutmanagement.html">About Management</a>
                 </li>
 					<li class="nav-item">
-                    <a class="nav-link page-scroll" href="#register">Courses</a>
-                </li>	<li class="nav-item">
-                    <a class="nav-link page-scroll" href="#register">Facilities</a>
+                    <a class="nav-link page-scroll" href="course">Courses</a>
+                </li>	
+					<li class="nav-item">
+                    <a class="nav-link page-scroll" href="facility.html">Facilities</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link page-scroll" href="faculty.html">Faculty</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link page-scroll" href="chairman.html">Chairman Message</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link page-scroll" href="facility.html">Facilities</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link page-scroll" href="facility.html">Facilities</a>
                 </li>
 				<!-- <li class="nav-item"> -->
                     <!-- <a class="nav-link page-scroll" href="#register">Faculty</a> -->

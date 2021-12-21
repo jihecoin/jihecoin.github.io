@@ -74,9 +74,9 @@
                     <a class="nav-link page-scroll" href="aboutmanagement.html">About Management</a>
                 </li>
 					<li class="nav-item">
-                    <a class="nav-link page-scroll" href="#register">Courses</a>
+                    <a class="nav-link page-scroll" href="course.html">Courses</a>
                 </li>	<li class="nav-item">
-                    <a class="nav-link page-scroll" href="#register">Facilities</a>
+                    <a class="nav-link page-scroll" href="course.html">Facilities</a>
                 </li>
 				<!-- <li class="nav-item"> -->
                     <!-- <a class="nav-link page-scroll" href="#register">Faculty</a> -->
@@ -158,7 +158,7 @@
                     <div class="text-container">
 <h2>Governing Body of Jagriti Shiksha Samiti Mohna</h2>
 <div class="row"> 
-<div class="col-sm-4 col-xs-4 col-md-4">S.No.</div><div class="col-sm-4 col-xs-4">Name</div><div class="col-sm-4 col-xs-4">Designation</div>
+<div class="col-sm-4 col-xs-4 ">S.No.</div><div class="col-sm-4 col-xs-4">Name</div><div class="col-sm-4 col-xs-4">Designation</div>
 <div class="col-sm-4">1</div><div class="col-sm-4">Mr. Ranjeet Singh</div><div class="col-sm-4">President</div>
 <div class="col-sm-4">2</div><div class="col-sm-4">Smt. Shyamwati</div><div class="col-sm-4">Vice President</div>
 <div class="col-sm-4">3</div><div class="col-sm-4">Mr. Baljeet Singh</div><div class="col-sm-4">General Secretary</div>

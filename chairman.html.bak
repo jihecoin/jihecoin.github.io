@@ -100,13 +100,13 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle page-scroll" href="#date" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">More</a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="faculty.html"><span class="item-text">Faculty</span></a>
+                        <a class="dropdown-item" href="article-details.html"><span class="item-text">Faculty</span></a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="chairman.html"><span class="item-text">Chairman Message</span></a>
+                        <a class="dropdown-item" href="terms-conditions.html"><span class="item-text">Chairman Message</span></a>
                         <div class="dropdown-divider"></div>
-                                  <a class="dropdown-item" href="principal.html"><span class="item-text">Principal Message</span></a>
+                                  <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">Principal Message</span></a>
 					   <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="gallery.html"><span class="item-text">Gallery</span></a>
+                        <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">Gallery</span></a>
                     </div>
                 </li>
                 <!-- end of dropdown menu -->
@@ -143,7 +143,7 @@
                         <div class="countdown">
                             <!-- <span id="clock"></span> -->
                         </div>
-                        <h1>COURSES</h1>
+                        <h1>CHAIRMAN MESSAGE</h1>
 						<marquee>Jagriti Institute of Higher Education is run by Jagriti Shiksha Samiti Mohna. </marquee>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -158,56 +158,26 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h2>Courses</h2>
-						<p>The following programmes are offered at J.I.H.E.:</p>
+                        <!-- <h2>Courses</h2> -->
+						<!-- <p>The following programmes are offered at J.I.H.E.:</p> -->
+						<!-- <div class="row"> -->
+							<!-- <div class="col-lg-12">B.Ed.<hr></div> -->
+						<!-- </div> -->
 						<div class="row">
-							<div class="col-lg-12">B.Ed.<hr></div>
+							<div class="col-lg-3"><img src="images/collegephoto.jpg" alt="principal"></div>
+							<div class="col-lg-9">Jagriti institute of higher education has been working with the idea better education for better society. This aim can be achieved through a quality education and now our endeavor is to create such educator who can impart quality education.<br><br>
+ 
+At Jagriti Institute of Higher education is to set learning challenges in carrying and orderly environment where pupil-teacher`s are provided opportunities for social emotional, cultural, mental and physical development. Jagriti Institute of higher education offers a broad teacher education where academic excellence is complimented by cultural, sporting and social development. We strive to develop each pupil teacher`s potentials, recognize his or her dignity and encourage positive self-esteem in order to promote responsibility and creativity dedicated nation and society.<br><br>
+ 
+I wish you all the Success.<br><br>
+ 
+<b>Ranjeet Singh</b><br>
+Chairman<br>
+Jagriti Institute of Higher Education
+
+ </div>
 						</div>
-						<div class="row">
-							<div class="col-lg-3">Eligibility</div>
-							<div class="col-lg-9">: Graduation/Post-graduation with 50% marks(SC/ST/PH 45% marks Haryana State Candidates only)</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3">Duration</div>
-							<div class="col-lg-9">:1 Year</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3">Intake</div>
-							<div class="col-lg-9">:200</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3">Admission Procedure</div>
-							<div class="col-lg-9">: On the basis of Maharishi Dayanand University Norms</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3"></div>
-							<div class="col-lg-9"><a href="./images/bedsyllabus.jpg" target="_blank">Syllabus</a></div>
-						</div>
-						<hr>
-						<div class="row">
-							<div class="col-lg-12">B.Ed.<hr></div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3">Eligibility</div>
-							<div class="col-lg-9">: 10+2 with 50% marks (SC/ST 45% marks only for Haryana Domicile)</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3">Duration</div>
-							<div class="col-lg-9">:2 Year</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3">Intake</div>
-							<div class="col-lg-9">:50</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3">Admission Procedure</div>
-							<div class="col-lg-9">: On the basis of Maharishi Dayanand University Norms</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3"></div>
-							<div class="col-lg-9"><a href="./images/dedsyllabus.jpg" target="_blank">Syllabus</a></div>
-						</div>
-						<p>The foresaid programmes will be conducted in accordance with the statutory requirements prescribed by NRC-NCTE/State Govt./M.D.University, Rihtak.</p>
+						<!-- <p>The foresaid programmes will be conducted in accordance with the statutory requirements prescribed by NRC-NCTE/State Govt./M.D.University, Rihtak.</p> -->
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                  <!-- end of col -->
