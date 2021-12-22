@@ -37,6 +37,11 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+.col-sm-4 img{
+	border:5px solid black;
+	margin:5px;
+	width:100%;
+}
 body,
 html {
     width: 100%;

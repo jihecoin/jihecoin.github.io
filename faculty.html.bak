@@ -4,20 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Landing page template built with HTML and Bootstrap 4 for presenting training courses, classes, workshops and for convincing visitors to register using the form.">
-    <meta name="author" content="Inovatik">
-
-    <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
-	<meta property="og:site_name" content="" /> <!-- website name -->
-	<meta property="og:site" content="" /> <!-- website link -->
-	<meta property="og:title" content=""/> <!-- title shown in the actual shared post -->
-	<meta property="og:description" content="" /> <!-- description shown in the actual shared post -->
-	<meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
-	<meta property="og:url" content="" /> <!-- where do you want your post to link to -->
-	<meta property="og:type" content="article" />
-
-    <!-- Website Title -->
+   
     <title>Jagriti Institute of Higher Education</title>
     
     <!-- Styles -->
@@ -176,9 +163,20 @@
 <div class="col-sm-4">13</div><div class="col-sm-4">Mrs. Rita</div><div class="col-sm-4">Lecturer</div>
 <div class="col-sm-4">14</div><div class="col-sm-4">Mrs. Rubi Pawar</div><div class="col-sm-4">Lecturer</div>
 <div class="col-sm-4">15</div><div class="col-sm-4">Mr. Yogender Singh</div><div class="col-sm-4">Lecturer</div>
-		
-
-</div>
+		</div>
+		<p>LIST OF NON-TEACHING STAFF</p>
+<div class="row"> 
+<div class="col-sm-4 col-xs-4 ">S.No.</div><div class="col-sm-4 col-xs-4">Name</div><div class="col-sm-4 col-xs-4">Designation</div>
+<div class="col-sm-4">1</div><div class="col-sm-4">Mr. Tara Chand</div><div class="col-sm-4">Librarian</div>
+<div class="col-sm-4">2</div><div class="col-sm-4">Mr. Pradeep Saini</div><div class="col-sm-4">Clerk-cum-Typist</div>
+<div class="col-sm-4">3</div><div class="col-sm-4">	Mr. Naresh Kumar</div><div class="col-sm-4">Clerk-cum-Typist</div>
+<div class="col-sm-4">4</div><div class="col-sm-4">Mr. Rajender Singh</div><div class="col-sm-4">Lab Attendant</div>
+<div class="col-sm-4">5</div><div class="col-sm-4">Mr. Ombir</div><div class="col-sm-4">Library Attendant</div>
+<div class="col-sm-4">6</div><div class="col-sm-4">Mr. Rajbir</div><div class="col-sm-4">Peon</div>
+<div class="col-sm-4">7</div><div class="col-sm-4">Mr. Devender</div><div class="col-sm-4">Peon</div>
+<div class="col-sm-4">8</div><div class="col-sm-4">Mr. Sukhbir Singh</div><div class="col-sm-4">Sweeper</div>
+<div class="col-sm-4">9</div><div class="col-sm-4">Mrs. Poonam</div><div class="col-sm-4">Sweeper</div>
+	</div>
                     </div> <!-- end of text-container -->
                 </div>
             </div> <!-- end of row -->
