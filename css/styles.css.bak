@@ -37,10 +37,14 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+.swiper-slide img{
+	width:600px;
+	height:350px;
+}
 .col-sm-4 img{
 	border:5px solid black;
 	margin:5px;
-	width:50%;
+	width:100%;
 }
 body,
 html {
