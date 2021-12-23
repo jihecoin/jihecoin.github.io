@@ -37,9 +37,11 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+
+
 .swiper-slide img{
-	width:80%;
-	height:350px;
+	width:100%;
+	height:auto;
 }
 .col-sm-4 img{
 	border:5px solid black;
@@ -838,7 +840,7 @@ input[type='checkbox'] {
 }
 
 .header .outer-container {
-	position: absolute;
+	/* position: absolute; */
 	right: 0;
 	bottom: -2rem;
 	left: 0;
@@ -1908,7 +1910,7 @@ a:hover.back-to-top {
 
 	/* Registration */
 	.form-1 {
-		padding-top: 10rem;
+		/* padding-top: 0rem; */
 	}
 	/* end of registration */
 
