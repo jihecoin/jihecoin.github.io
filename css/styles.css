@@ -37,6 +37,13 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+.bold{
+	font-weight:bold;
+}
+.border .col-sm-2, .col-sm-5{
+	text-align:center;
+	border:1px solid black;
+}
 
 
 .swiper-slide img{

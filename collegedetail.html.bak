@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-  
+   
     <!-- Website Title -->
     <title>Jagriti Institute of Higher Education</title>
     
@@ -113,7 +113,8 @@
                         <div class="countdown">
                             <!-- <span id="clock"></span> -->
                         </div>
-                        <h1>ABOUT MANAGEMENT</h1>
+                        <h1>COLLEGE DETAILS</h1>
+						<marquee>Jagriti Institute of Higher Education is run by Jagriti Shiksha Samiti Mohna. </marquee>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -121,31 +122,201 @@
         </div>
 
 </header>
-
+    <!-- Students -->
+    <div class="basic-3">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12" style="margin:50px;">
+                <div class="col-lg-6">
                     <div class="text-container">
-<h2>Governing Body of Jagriti Shiksha Samiti Mohna</h2>
-<div class="row border"> 
-<div class="col-sm-2 col-2 "><b>S.No.</b></div><div class="col-sm-5 col-5"><b>Name</b></div><div class="col-sm-5 col-5"><b>Designation</b></div>
-<div class="col-sm-2 col-2">1</div><div class="col-sm-5 col-5">Mr. Ranjeet Singh</div><div class="col-sm-5 col-5">President</div>
-<div class="col-sm-2 col-2">2</div><div class="col-sm-5 col-5">Smt. Shyamwati</div><div class="col-sm-5 col-5">Vice President</div>
-<div class="col-sm-2 col-2">3</div><div class="col-sm-5 col-5">Mr. Baljeet Singh</div><div class="col-sm-5 col-5">General Secretary</div>
-<div class="col-sm-2 col-2">4</div><div class="col-sm-5 col-5">Sh. Sher Singh</div><div class="col-sm-5 col-5">Treasurer</div>
-<div class="col-sm-2 col-2">5</div><div class="col-sm-5 col-5">Mrs. Sneh lata</div><div class="col-sm-5 col-5">Joint Secretary</div>
-<div class="col-sm-2 col-2">6</div><div class="col-sm-5 col-5">Mrs. Snehlata</div><div class="col-sm-5 col-5">Member</div>
-<div class="col-sm-2 col-2">7</div><div class="col-sm-5 col-5">Mr. Ramesh Chand</div><div class="col-sm-5 col-5">Member</div>
-		
-
-</div>
+                        <!-- <h2></h2> -->
+                        <p>Jagriti Institute of Higher Education is run by Jagriti Shiksha Samiti Mohna. The college is situated in Mohna, Ballabgarh, Distt-Faridabad Haryana. We are running a course for Bachelor of Education and Diploma in Education. Our aim is to provide opportunities for all students to achieve their full potential and this can be done through collective efforts of faculty, staff members and students. The college provides all those facilities which are essential for making would be teachers.</p>
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
                     </div> <!-- end of text-container -->
-                </div>
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- second box for clg detail -->
+
+    <div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+<h2>Land and Building</h2>
+<p>The total area of college is 17572sq.mtr. College building has been completed. All classrooms, halls, library, laboratories are spacious and well equipped.</p>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of students -->
+
+<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <h2>Classrooms</h2>
+<p>The college has 17 classrooms. Rooms are well equipped and properly ventilated.</p>
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+				                        <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+										
+
+                </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div>
-       
-   
+	<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+<h2>Principal room</h2>
+<p>The construction of principal room has been completed.</p>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of students -->
+<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+<h2>Staff room</h2>
+<p>The room for staff member of the college is well furnished.</p>
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+				                        <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+										
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div>
+	<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+<h2>Canteen</h2>
+<p>Fully hygienic canteen with all time availability of nutritious food stuffs for students and teachers. Canteen is ventilated and well furnished with sufficient space and furniture for students.</p>
+                 </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of students -->
+<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+<h2>Medical Facilities</h2>
+<p>In campus there is Provision of medical facility for students and teachers.</p>
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+				                        <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div>
+	<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+ 
+<h2>Sports and Playground</h2>
+<p>The institute has wide range of sporting in the campus. The college has playground for outdoor games like Badminton, Volley ball, Athletics, cricket etc. For indoor games like Table Tennis, chess, Carom board etc. college has spacious sports room with sufficient number of sports items.</p>
+ 
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of students -->
+
+    <!-- Details Lightbox -->
+	<div id="details-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="container">
+            <div class="row">
+                <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+                <div class="col-lg-8">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/details-lightbox.jpg" alt="alternative">
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-4">
+                    <h3>SEO Training Course</h3>
+                    <hr>
+                    <h5>For everybody</h5>
+                    <p>The training course is dedicates to anyone passionate about the web and in need of improving their current online presence.</p>
+                    <ul class="list-unstyled li-space-lg">
+                        <li class="media">
+                            <i class="fas fa-square"></i><div class="media-body">Link building framework</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i><div class="media-body">Know your current position</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i><div class="media-body">Partnering with blogs</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i><div class="media-body">Naming your images</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i><div class="media-body">Creating good sitemaps</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i><div class="media-body">Writing for humans</div>
+                        </li>
+                    </ul>
+                    <a class="btn-solid-reg mfp-close page-scroll" href="#register">SIGN UP</a> <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of details lightbox -->
+
 
     <!-- Footer -->
     <div class="footer">

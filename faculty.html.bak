@@ -4,12 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-  
-    <!-- Website Title -->
+   
     <title>Jagriti Institute of Higher Education</title>
     
     <!-- Styles -->
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,600,700,700i&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,600,700,700i&display=swap" rel="stylesheet"> -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/fontawesome-all.css" rel="stylesheet">
     <link href="css/swiper.css" rel="stylesheet">
@@ -113,7 +112,7 @@
                         <div class="countdown">
                             <!-- <span id="clock"></span> -->
                         </div>
-                        <h1>ABOUT MANAGEMENT</h1>
+                        <h1>FACULTY</h1>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -126,19 +125,40 @@
             <div class="row">
                 <div class="col-lg-12" style="margin:50px;">
                     <div class="text-container">
-<h2>Governing Body of Jagriti Shiksha Samiti Mohna</h2>
+					
+	
+<p class="bold">LIST OF TEACHING STAFF (B.Ed.)</p>
+<div class="row"> 
+<div class="col-sm-4 col-xs-4 bold">S.No.</div><div class="col-sm-4 col-xs-4 bold">Name</div><div class="col-sm-4 col-xs-4 bold">Designation</div>
+<div class="col-sm-4">1</div><div class="col-sm-4">Dr. Chaman kumar</div><div class="col-sm-4">Principle</div>
+<div class="col-sm-4">2</div><div class="col-sm-4">Mr. Vijay Prakash Yadav</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">3</div><div class="col-sm-4">	Mr. Rajendra Kumar Gupta</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">4</div><div class="col-sm-4">Mr. Inami</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">5</div><div class="col-sm-4">Mr. Krishan Kumar</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">6</div><div class="col-sm-4">Mrs. Sangeeta Rani</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">7</div><div class="col-sm-4">Mrs. Mamta Sharma</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">8</div><div class="col-sm-4">Dr. Pushpa Pandey</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">9</div><div class="col-sm-4">Mr. Lakhpat Singh</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">10</div><div class="col-sm-4">Mr. Sudhankar Tiwari</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">11</div><div class="col-sm-4">Mr. Manoj Kumar</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">12</div><div class="col-sm-4">Mr. Krishan Kumar</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">13</div><div class="col-sm-4">Mrs. Rita</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">14</div><div class="col-sm-4">Mrs. Rubi Pawar</div><div class="col-sm-4">Lecturer</div>
+<div class="col-sm-4">15</div><div class="col-sm-4">Mr. Yogender Singh</div><div class="col-sm-4">Lecturer</div>
+		</div><br>
+		<p class="bold">LIST OF NON-TEACHING STAFF</p>
 <div class="row border"> 
-<div class="col-sm-2 col-2 "><b>S.No.</b></div><div class="col-sm-5 col-5"><b>Name</b></div><div class="col-sm-5 col-5"><b>Designation</b></div>
-<div class="col-sm-2 col-2">1</div><div class="col-sm-5 col-5">Mr. Ranjeet Singh</div><div class="col-sm-5 col-5">President</div>
-<div class="col-sm-2 col-2">2</div><div class="col-sm-5 col-5">Smt. Shyamwati</div><div class="col-sm-5 col-5">Vice President</div>
-<div class="col-sm-2 col-2">3</div><div class="col-sm-5 col-5">Mr. Baljeet Singh</div><div class="col-sm-5 col-5">General Secretary</div>
-<div class="col-sm-2 col-2">4</div><div class="col-sm-5 col-5">Sh. Sher Singh</div><div class="col-sm-5 col-5">Treasurer</div>
-<div class="col-sm-2 col-2">5</div><div class="col-sm-5 col-5">Mrs. Sneh lata</div><div class="col-sm-5 col-5">Joint Secretary</div>
-<div class="col-sm-2 col-2">6</div><div class="col-sm-5 col-5">Mrs. Snehlata</div><div class="col-sm-5 col-5">Member</div>
-<div class="col-sm-2 col-2">7</div><div class="col-sm-5 col-5">Mr. Ramesh Chand</div><div class="col-sm-5 col-5">Member</div>
-		
-
-</div>
+<div class="col-sm-2 col-2 bold">S.No.</div><div class="col-sm-5 col-5 bold">Name</div><div class="col-sm-5 col-5 bold">Designation</div>
+<div class="col-sm-2 col-2">1</div><div class="col-sm-5 col-5">Mr. Tara Chand</div><div class="col-sm-5 col-5">Librarian</div>
+<div class="col-sm-2 col-2">2</div><div class="col-sm-5 col-5">Mr. Pradeep Saini</div><div class="col-sm-5 col-5">Clerk-cum-Typist</div>
+<div class="col-sm-2 col-2">3</div><div class="col-sm-5 col-5">	Mr. Naresh Kumar</div><div class="col-sm-5 col-5">Clerk-cum-Typist</div>
+<div class="col-sm-2 col-2">4</div><div class="col-sm-5 col-5">Mr. Rajender Singh</div><div class="col-sm-5 col-5">Lab Attendant</div>
+<div class="col-sm-2 col-2">5</div><div class="col-sm-5 col-5">Mr. Ombir</div><div class="col-sm-5 col-5">Library Attendant</div>
+<div class="col-sm-2 col-2">6</div><div class="col-sm-5 col-5">Mr. Rajbir</div><div class="col-sm-5 col-5">Peon</div>
+<div class="col-sm-2 col-2">7</div><div class="col-sm-5 col-5">Mr. Devender</div><div class="col-sm-5 col-5">Peon</div>
+<div class="col-sm-2 col-2">8</div><div class="col-sm-5 col-5">Mr. Sukhbir Singh</div><div class="col-sm-5 col-5">Sweeper</div>
+<div class="col-sm-2 col-2">9</div><div class="col-sm-5 col-5">Mrs. Poonam</div><div class="col-sm-5 col-5">Sweeper</div>
+	</div>
                     </div> <!-- end of text-container -->
                 </div>
             </div> <!-- end of row -->

@@ -37,6 +37,13 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+.bold{
+	text-style:bold;
+}
+.border .col-sm-2, .col-sm-5{
+	text-align:center;
+	border:1px solid black;
+}
 
 
 .swiper-slide img{
@@ -1910,7 +1917,7 @@ a:hover.back-to-top {
 
 	/* Registration */
 	.form-1 {
-		padding-top: 0rem;
+		/* padding-top: 0rem; */
 	}
 	/* end of registration */
 
