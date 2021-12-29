@@ -4,12 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-  
+ 
+
     <!-- Website Title -->
     <title>Jagriti Institute of Higher Education</title>
     
     <!-- Styles -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,600,700,700i&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,600,700,700i&display=swap" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/fontawesome-all.css" rel="stylesheet">
     <link href="css/swiper.css" rel="stylesheet">
@@ -74,7 +75,7 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="chairman.html"><span class="item-text">Chairman Message</span></a>
                         <div class="dropdown-divider"></div>
-                                  <a class="dropdown-item" href="chairman.html"><span class="item-text">Principal Message</span></a>
+                                  <a class="dropdown-item" href="principal.html"><span class="item-text">Principal Message</span></a>
 					   <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="gallery.html"><span class="item-text">Gallery</span></a>
                     </div>
@@ -82,7 +83,7 @@
                 <!-- end of dropdown menu -->
 
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="index.html">Contact</a>
+                    <a class="nav-link page-scroll" href="contact.html">Contact</a>
                 </li>
             </ul>
             <span class="nav-item social-icons">
@@ -113,7 +114,7 @@
                         <div class="countdown">
                             <!-- <span id="clock"></span> -->
                         </div>
-                        <h1>COURSES</h1>
+                        <h1>COLLEGE DETAILS</h1>
 						<marquee>Jagriti Institute of Higher Education is run by Jagriti Shiksha Samiti Mohna. </marquee>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -126,67 +127,155 @@
     <div class="basic-3">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-6">
                     <div class="text-container">
-                        <h2>Courses</h2>
-						<p class="bold">The following programmes are offered at J.I.H.E.:</p>
-						<div class="row">
-							<div class="col-lg-12 bold">B.Ed.<hr></div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3 bold">Eligibility</div>
-							<div class="col-lg-9">: Graduation/Post-graduation with 50% marks(SC/ST/PH 45% marks Haryana State Candidates only)</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3 bold">Duration</div>
-							<div class="col-lg-9">:1 Year</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3 bold">Intake</div>
-							<div class="col-lg-9">:200</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3 bold">Admission Procedure</div>
-							<div class="col-lg-9">: On the basis of Maharishi Dayanand University Norms</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3"></div>
-							<div class="col-lg-9"><a href="./images/bedsyllabus.jpg" target="_blank">Syllabus</a></div>
-						</div>
-						<hr>
-						<div class="row">
-							<div class="col-lg-12 bold">B.Ed.<hr></div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3 bold">Eligibility</div>
-							<div class="col-lg-9">: 10+2 with 50% marks (SC/ST 45% marks only for Haryana Domicile)</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3 bold">Duration</div>
-							<div class="col-lg-9">:2 Year</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3 bold">Intake</div>
-							<div class="col-lg-9">:50</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3 bold">Admission Procedure</div>
-							<div class="col-lg-9">: On the basis of Maharishi Dayanand University Norms</div>
-						</div>
-						<div class="row">
-							<div class="col-lg-3"></div>
-							<div class="col-lg-9"><a href="./images/dedsyllabus.jpg" target="_blank">Syllabus</a></div>
-						</div>
-						<p>The foresaid programmes will be conducted in accordance with the statutory requirements prescribed by NRC-NCTE/State Govt./M.D.University, Rihtak.</p>
+                        <!-- <h2></h2> -->
+                        <p>Jagriti Institute of Higher Education is run by Jagriti Shiksha Samiti Mohna. The college is situated in Mohna, Ballabgarh, Distt-Faridabad Haryana. We are running a course for Bachelor of Education and Diploma in Education. Our aim is to provide opportunities for all students to achieve their full potential and this can be done through collective efforts of faculty, staff members and students. The college provides all those facilities which are essential for making would be teachers.</p>
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
-                 <!-- end of col -->
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+                </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
     </div> <!-- end of basic-3 -->
     <!-- second box for clg detail -->
 
-    
+    <div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+<h2>Land and Building</h2>
+<p>The total area of college is 17572sq.mtr. College building has been completed. All classrooms, halls, library, laboratories are spacious and well equipped.</p>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of students -->
+
+<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <h2>Classrooms</h2>
+<p>The college has 17 classrooms. Rooms are well equipped and properly ventilated.</p>
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+				                        <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+										
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div>
+	<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+<h2>Principal room</h2>
+<p>The construction of principal room has been completed.</p>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of students -->
+<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+<h2>Staff room</h2>
+<p>The room for staff member of the college is well furnished.</p>
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+				                        <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+										
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div>
+	<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+<h2>Canteen</h2>
+<p>Fully hygienic canteen with all time availability of nutritious food stuffs for students and teachers. Canteen is ventilated and well furnished with sufficient space and furniture for students.</p>
+                 </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of students -->
+<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+<h2>Medical Facilities</h2>
+<p>In campus there is Provision of medical facility for students and teachers.</p>
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+				                        <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div>
+	<div class="basic-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+					                    <img class="img-fluid" src="images/collegephoto.jpg" alt="alternative">
+
+                        <!-- <h2></h2> -->
+                        <!-- <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox">LIGHTBOX</a> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+ 
+<h2>Sports and Playground</h2>
+<p>The institute has wide range of sporting in the campus. The college has playground for outdoor games like Badminton, Volley ball, Athletics, cricket etc. For indoor games like Table Tennis, chess, Carom board etc. college has spacious sports room with sufficient number of sports items.</p>
+ 
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-3 -->
+    <!-- end of students -->
+
     <!-- Details Lightbox -->
 	<div id="details-lightbox" class="lightbox-basic zoom-anim-dialog mfp-hide">
         <div class="container">
