@@ -37,6 +37,10 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+.ifamew{
+	width:100%;
+	height:1000px;
+}
 .bold{
 	font-weight:bold;
 }
