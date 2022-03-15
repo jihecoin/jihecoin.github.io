@@ -37,6 +37,7 @@ Colors:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+
 .ifamew{
 	width:100%;
 	height:1000px;
@@ -52,8 +53,14 @@ Colors:
 
 .swiper-slide img{
 	width:100%;
-	height:auto;
+	height:500px;
 }
+
+.swiper-slide .img-fluidin{
+	width:100%;
+	height:160px;
+}
+
 .col-sm-4 img{
 	border:5px solid black;
 	margin:5px;
